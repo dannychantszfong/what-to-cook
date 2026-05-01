@@ -1,6 +1,6 @@
 # Privacy Policy for What to Cook
 
-**Last updated: [DATE]**
+**Last updated: 2025/6/27**
 
 ## Information We Collect
 - **Ingredients and recipes**: We temporarily send your ingredient lists to AI services to generate recipes
@@ -25,7 +25,7 @@
 - You can modify or delete your stored preferences at any time
 
 ## Contact Us
-For questions about this privacy policy, contact: [YOUR_EMAIL]
+For questions about this privacy policy, contact: ctz200109@gmail.com
 
 ## Changes to This Policy
 We may update this privacy policy. Changes will be posted in the app and on this page. 

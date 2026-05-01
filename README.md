@@ -12,7 +12,14 @@ An Android app that uses AI to generate personalized recipes based on the ingred
 
 ## Screenshots
 
-<!-- Add screenshots here -->
+<p align="center">
+  <img src="screenshot/Screenshot_20250627_120624.png" width="18%" />
+  <img src="screenshot/Screenshot_20250627_120746.png" width="18%" />
+  <img src="screenshot/Screenshot_20250627_120757.png" width="18%" />
+  <img src="screenshot/Screenshot_20250627_120838.png" width="18%" />
+  <img src="screenshot/Screenshot_20250627_120846.png" width="18%" />
+  <img src="screenshot/Screenshot_20250627_120852.png" width="18%" />
+</p>
 
 ## Tech Stack
 
